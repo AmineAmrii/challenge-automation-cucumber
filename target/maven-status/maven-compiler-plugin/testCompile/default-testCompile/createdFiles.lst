@@ -1,0 +1,16 @@
+com\e2etests\automation\page_objects\PatientPage.class
+com\e2etests\automation\utils\Assertions.class
+com\e2etests\automation\utils\WebActionHelperMethods.class
+com\e2etests\automation\utils\ExcelUtils.class
+com\e2etests\automation\utils\BasePage.class
+com\e2etests\automation\utils\ConfigFileReader.class
+com\e2etests\automation\utils\TearDown.class
+com\e2etests\automation\step_definitions\PatientStepDefinition.class
+com\e2etests\automation\utils\RandomValue.class
+com\e2etests\automation\utils\Wait.class
+com\e2etests\automation\RunWebSuiteTest.class
+com\e2etests\automation\utils\Setup.class
+com\e2etests\automation\step_definitions\DragAndDropStepDefinition.class
+com\e2etests\automation\utils\SelectFromListUtils.class
+com\e2etests\automation\utils\Constant.class
+com\e2etests\automation\page_objects\DragAndDropPage.class
